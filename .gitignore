@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# config file
+*.ini
+
+# neo4j files
+.cert/
+neo4j/data
+neo4j/logs
+neo4j/ssl
